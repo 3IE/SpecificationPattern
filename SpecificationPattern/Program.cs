@@ -16,7 +16,6 @@ namespace SpecificationPattern
             // or
             var myOrder = new Domain.AggregateModels.Order(DateTime.Now, new Domain.AggregateModels.Address("rue de la liberté", "Paris"));
             bool isInCity = citySpec.IsSatisfiedBy(myOrder);
-
         }
     }
 }
