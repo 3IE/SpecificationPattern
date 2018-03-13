@@ -1,0 +1,7 @@
+Domain/obj/
+Infrastructure/obj/
+SpecificationPattern/obj/
+.vs/
+Domain/bin/
+Infrastructure/bin/
+SpecificationPattern/bin/
